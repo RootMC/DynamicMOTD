@@ -1,0 +1,5 @@
+name: DynamicMOTD
+description: "Dynamic MOTD for the Minecraft server browser"
+author: "Tan Toan"
+main: rootmc.net.dynamicmotd.Main
+version: ${project.version}
